@@ -1,1 +1,6 @@
 # gameideas
+Colors:
+
+
+
+Classes?
